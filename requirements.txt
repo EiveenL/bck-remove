@@ -1,0 +1,3 @@
+rembg==1.0.29
+streamlit==1.11.0
+Pillow==8.2.0
